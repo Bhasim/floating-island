@@ -1,0 +1,177 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "305f1ce224a1323ce5ded725acccf7aed04a5453aba24728e55934e2c23ca1e1",
+    "bytes": 387
+  },
+  {
+    "path": "README.md",
+    "sha256": "a4c3e4a3221bf1c2ea8f5a52a110918801130bdbf1c2abb485539486effb7500",
+    "bytes": 18964
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "ec6a188474f5d6b749b12baba4aec35ae9f90ff77ab2079511fa38c90b9eef41",
+    "bytes": 1106
+  },
+  {
+    "path": "SECURITY.md",
+    "sha256": "2e478deff53288a0c05a34dc5be8c3d2fd9c78dcbbbf8be371ad2cfa80f926c6",
+    "bytes": 1767
+  },
+  {
+    "path": "requirements-system.txt",
+    "sha256": "93740cb77598809abec64ea216cc4d8798f104bc84367d1ee3e299afb8e3c9c4",
+    "bytes": 357
+  },
+  {
+    "path": "run.sh",
+    "sha256": "2d462036599d926ce5d4e457188fa75ff583125a0b19f9286802d8fe7fd3bc13",
+    "bytes": 106
+  },
+  {
+    "path": "island/__init__.py",
+    "sha256": "c525979b0b774d37e64b720cabd8a9ec2be0f466d007cfff1f970b0d288e2b48",
+    "bytes": 82
+  },
+  {
+    "path": "island/app.py",
+    "sha256": "858ca5f598e7a87a5375e3eb8adcb951c15f0ba1c710fe6224f0c50f3ab5128a",
+    "bytes": 40263
+  },
+  {
+    "path": "island/config.py",
+    "sha256": "8b7b30a2e660dcc9f1cc283e245cc1ebcbdc9f8058092cd3e6bb950f68824d8c",
+    "bytes": 1914
+  },
+  {
+    "path": "island/layout.py",
+    "sha256": "cda8b9e0a296237026e187529960a833fbc953053f45f7976cb2f802d28a0c12",
+    "bytes": 223
+  },
+  {
+    "path": "island/services.py",
+    "sha256": "ece19b7dffe3d7c174295ae929682ca7dcf56b78170cd327f1cc0c8bd6991e38",
+    "bytes": 14031
+  },
+  {
+    "path": "island/weather.py",
+    "sha256": "d4b8cb86c58214454fe0ba7b0672d28b4103816ea2a97789a6b4320d286a4751",
+    "bytes": 6739
+  },
+  {
+    "path": "scripts/autostart.py",
+    "sha256": "70bebd8b4712b3c9e8520a99ff8d572587316afe24cd849129821e579c891d78",
+    "bytes": 678
+  },
+  {
+    "path": "scripts/benchmark.py",
+    "sha256": "1f3275337593111d74f17382dab03b81c7ca9a845d43f57ae3cede4c97283337",
+    "bytes": 3137
+  },
+  {
+    "path": "scripts/capture_demo.py",
+    "sha256": "c722702036a1603adcfeb231241e1215f64f933272f9bec007fdaa9a463c6f52",
+    "bytes": 2219
+  },
+  {
+    "path": "scripts/install.py",
+    "sha256": "d78f17f42943dde56d8677fd3e81454b090e26bd101f39d724341fe52089cb7c",
+    "bytes": 1593
+  },
+  {
+    "path": "scripts/panel.py",
+    "sha256": "d99e7de3b8d6edef505037bdc458edc4741fdd525219d50c1eabf0a2ec0be620",
+    "bytes": 1297
+  },
+  {
+    "path": "scripts/prepare_public.py",
+    "sha256": "5f67f5a3d4c20988cb3c2fb9fbf02d318d4a381aa19030a483d85bbd7c6fdade",
+    "bytes": 2153
+  },
+  {
+    "path": "scripts/uninstall.py",
+    "sha256": "4994e7df948ca2001385090cdd0de50f8fbdbe7bab78a43ba11f863afbc69589",
+    "bytes": 612
+  },
+  {
+    "path": "scripts/README.md",
+    "sha256": "1ce01b5194d3344ab88e2af4477d5947cd04ea40348430dd1e64378930e4f968",
+    "bytes": 287
+  },
+  {
+    "path": "tests/sizing_check.py",
+    "sha256": "fe5e53fa4c6979da7395aa4bf99d6edbfeeaf65514edac54c8a5777fd9ef3f67",
+    "bytes": 4361
+  },
+  {
+    "path": "tests/test_config.py",
+    "sha256": "ca045562b4c10ba3445caa0adcb5a8a6c6e72d1da47fbda4530556f724045f8e",
+    "bytes": 1105
+  },
+  {
+    "path": "tests/test_packaging.py",
+    "sha256": "94beeee0658bc7996d641cf6ced86df12646f1354e227576795be3cda8a51a26",
+    "bytes": 1430
+  },
+  {
+    "path": "tests/test_weather.py",
+    "sha256": "0160c85b451fe02055b77765d42a4e9e0bc3a0f74a6307ec1ec94056b84403ac",
+    "bytes": 3272
+  },
+  {
+    "path": "tests/ui_check.py",
+    "sha256": "9ff8fb6c4c8f8bf847b21c8b7fa19ab563245cd93a00eaffdd7b20e59a4c7c7f",
+    "bytes": 10275
+  },
+  {
+    "path": "tests/README.md",
+    "sha256": "23b2474f77a0484637009d7e2a0d3514aa24b8316ff32bb5851ab7ecce3d4b94",
+    "bytes": 285
+  },
+  {
+    "path": "docs/RELEASE.md",
+    "sha256": "dc6ae3f6306984a3cbdd7e35aac14de528e7d741fbe80753e0fc5a1f0f12fabf",
+    "bytes": 473
+  },
+  {
+    "path": "docs/TESTING.md",
+    "sha256": "864ceeb3da5935f7b5773b61d49aaa629e2e871613b5e2bf545f9118494cb418",
+    "bytes": 12617
+  },
+  {
+    "path": "docs/performance.json",
+    "sha256": "4a9e4263bb57482e3f94c3a7b11842a7cd5e33414b5d4cacc0c6a136f0ff9f81",
+    "bytes": 791
+  },
+  {
+    "path": "docs/ui-results.json",
+    "sha256": "9a18adb9c1705f7f85de4608d4d037b622abcc152503c36cfbc25719ce23ffc5",
+    "bytes": 3097
+  },
+  {
+    "path": "docs/sizing-results.json",
+    "sha256": "b0bdaed4d65b602882e8309beddb279ab049444f5e7878e8fa3d3bba52666edb",
+    "bytes": 2227
+  },
+  {
+    "path": "docs/collapsed.png",
+    "sha256": "fdf04333129025cb4148f8f4fbc0cfa8515eb2bdebcb799ac3b7f14ddf637b5c",
+    "bytes": 2894
+  },
+  {
+    "path": "docs/expanded.png",
+    "sha256": "97f79f4444b218a51174839ef827e1b05c7a39d686eec39ae40eec1d6e53e3f1",
+    "bytes": 34019
+  },
+  {
+    "path": "docs/sizing-360x400.png",
+    "sha256": "cbdcb20f978220bf599a32f8a796124003fd55bdc2b9194aebae087f890ae509",
+    "bytes": 19054
+  },
+  {
+    "path": "docs/sizing-800x740.png",
+    "sha256": "5de79648a4a20c2f86265986e1ca560271d5f999045b541b5052f2e0c2329bfe",
+    "bytes": 41509
+  }
+]

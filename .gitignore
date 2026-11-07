@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.log
+core
+core.*
+
+# Personal configuration belongs in XDG directories, never source control.
+config.json
+location.json
+weather-cache.json
+
+# Credentials, local settings, private diagnostics and backups
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite*
+*.db
+*.bak
+*.backup
+*credentials*
+*secrets*
+*token*
+.local/
+private/
+backups/
+panel-backup*/
+public-release/
+dist/
