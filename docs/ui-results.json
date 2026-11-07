@@ -1,0 +1,158 @@
+[
+  {
+    "test": "Registration hidden while collapsed",
+    "passed": true
+  },
+  {
+    "test": "Weather card hidden while collapsed",
+    "passed": true
+  },
+  {
+    "test": "Clock hidden while collapsed",
+    "passed": true
+  },
+  {
+    "test": "No clock or weather timer while collapsed",
+    "passed": true
+  },
+  {
+    "test": "Pointer hover opens island",
+    "passed": true
+  },
+  {
+    "test": "Hover preserves active window",
+    "passed": true
+  },
+  {
+    "test": "Registration visible in expanded footer",
+    "passed": true
+  },
+  {
+    "test": "Clock and weather visible only in expanded panel",
+    "passed": true
+  },
+  {
+    "test": "Clock, weekday and full date rendered",
+    "passed": true
+  },
+  {
+    "test": "Bluetooth off state has text and gray style",
+    "passed": true
+  },
+  {
+    "test": "Bluetooth on state has text and blue style",
+    "passed": true
+  },
+  {
+    "test": "Weather card renders condition and both daily extremes",
+    "passed": true
+  },
+  {
+    "test": "Moving into panel keeps it open",
+    "passed": true
+  },
+  {
+    "test": "Drag/child hold prevents collapse",
+    "passed": true
+  },
+  {
+    "test": "Leaving closes after delay",
+    "passed": true
+  },
+  {
+    "test": "12 repeated expand/collapse cycles",
+    "passed": true
+  },
+  {
+    "test": "External window appears in EWMH list",
+    "passed": true
+  },
+  {
+    "test": "Activate restores minimized window",
+    "passed": true
+  },
+  {
+    "test": "Current-workspace filter excludes other workspace",
+    "passed": true
+  },
+  {
+    "test": "Activation switches workspace",
+    "passed": true
+  },
+  {
+    "test": "Fullscreen hides island",
+    "passed": true
+  },
+  {
+    "test": "Leaving fullscreen restores island",
+    "passed": true
+  },
+  {
+    "test": "Island excluded from window list",
+    "passed": true
+  },
+  {
+    "test": "Dock window hint",
+    "passed": true
+  },
+  {
+    "test": "Main window refuses keyboard focus",
+    "passed": true
+  },
+  {
+    "test": "Real keyboard layouts detected",
+    "passed": true
+  },
+  {
+    "test": "PulseAudio-compatible output detected",
+    "passed": true
+  },
+  {
+    "test": "NetworkManager available",
+    "passed": true
+  },
+  {
+    "test": "Transparent corner passes pointer through",
+    "passed": true
+  },
+  {
+    "test": "Capsule center receives pointer",
+    "passed": true
+  },
+  {
+    "test": "External XKB change updates indicator",
+    "passed": true
+  },
+  {
+    "test": "Original keyboard group restored",
+    "passed": true
+  },
+  {
+    "test": "Settings opens a real separate window",
+    "passed": true
+  },
+  {
+    "test": "Escape closes focused settings",
+    "passed": true
+  },
+  {
+    "test": "Location chooser opens inside application",
+    "passed": true
+  },
+  {
+    "test": "Denying location consent sends no request and saves no city",
+    "passed": true
+  },
+  {
+    "test": "Audio output menu opens",
+    "passed": true
+  },
+  {
+    "test": "Network menu opens without changing connection",
+    "passed": true
+  },
+  {
+    "test": "Bluetooth menu opens without toggling radio",
+    "passed": true
+  }
+]

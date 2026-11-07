@@ -1,0 +1,158 @@
+[
+  {
+    "requested": [
+      520,
+      642
+    ],
+    "actual": [
+      520,
+      642
+    ],
+    "scale": 0.956,
+    "size_matches": true,
+    "weather": true,
+    "apps": true,
+    "audio": true,
+    "network": true,
+    "bluetooth": true,
+    "closed_size": [
+      286,
+      38
+    ],
+    "baseline": [
+      286,
+      38
+    ],
+    "capsule_unchanged": true
+  },
+  {
+    "requested": [
+      360,
+      400
+    ],
+    "actual": [
+      360,
+      400
+    ],
+    "scale": 0.571,
+    "size_matches": true,
+    "weather": true,
+    "apps": true,
+    "audio": true,
+    "network": true,
+    "bluetooth": true,
+    "closed_size": [
+      286,
+      38
+    ],
+    "baseline": [
+      286,
+      38
+    ],
+    "capsule_unchanged": true
+  },
+  {
+    "requested": [
+      320,
+      340
+    ],
+    "actual": [
+      320,
+      340
+    ],
+    "scale": 0.448,
+    "size_matches": true,
+    "weather": true,
+    "apps": true,
+    "audio": true,
+    "network": true,
+    "bluetooth": true,
+    "closed_size": [
+      286,
+      38
+    ],
+    "baseline": [
+      286,
+      38
+    ],
+    "capsule_unchanged": true
+  },
+  {
+    "requested": [
+      800,
+      740
+    ],
+    "actual": [
+      800,
+      740
+    ],
+    "scale": 1.111,
+    "size_matches": true,
+    "weather": true,
+    "apps": true,
+    "audio": true,
+    "network": true,
+    "bluetooth": true,
+    "closed_size": [
+      286,
+      38
+    ],
+    "baseline": [
+      286,
+      38
+    ],
+    "capsule_unchanged": true
+  },
+  {
+    "requested": [
+      700,
+      380
+    ],
+    "actual": [
+      700,
+      380
+    ],
+    "scale": 0.54,
+    "size_matches": true,
+    "weather": true,
+    "apps": true,
+    "audio": true,
+    "network": true,
+    "bluetooth": true,
+    "closed_size": [
+      286,
+      38
+    ],
+    "baseline": [
+      286,
+      38
+    ],
+    "capsule_unchanged": true
+  },
+  {
+    "requested": [
+      340,
+      740
+    ],
+    "actual": [
+      340,
+      740
+    ],
+    "scale": 0.654,
+    "size_matches": true,
+    "weather": true,
+    "apps": true,
+    "audio": true,
+    "network": true,
+    "bluetooth": true,
+    "closed_size": [
+      286,
+      38
+    ],
+    "baseline": [
+      286,
+      38
+    ],
+    "capsule_unchanged": true
+  }
+]

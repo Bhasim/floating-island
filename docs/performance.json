@@ -1,0 +1,42 @@
+{
+  "process_only": true,
+  "exit_code": 0,
+  "results": [
+    {
+      "mode": "collapsed idle",
+      "initial_size": [
+        "294",
+        "38"
+      ],
+      "seconds": 20.03,
+      "cpu_percent_one_core": 0.2,
+      "rss_min_mib": 61.58,
+      "rss_max_mib": 61.59,
+      "cycles": 0
+    },
+    {
+      "mode": "expanded idle",
+      "initial_size": [
+        "520",
+        "453"
+      ],
+      "seconds": 15.03,
+      "cpu_percent_one_core": 0.0,
+      "rss_min_mib": 61.64,
+      "rss_max_mib": 61.64,
+      "cycles": 0
+    },
+    {
+      "mode": "expand and collapse",
+      "initial_size": [
+        "520",
+        "453"
+      ],
+      "seconds": 15.05,
+      "cpu_percent_one_core": 10.894,
+      "rss_min_mib": 61.64,
+      "rss_max_mib": 61.69,
+      "cycles": 24
+    }
+  ]
+}
